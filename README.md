@@ -32,10 +32,15 @@ In the third stage, I developed KPIs and visualized the sales data using Tableau
 ## Key KPIs:
 
 Quantity: Total units sold, helping with inventory management and product popularity assessment.
+
 Profit per Order: Average profit per order, aiding in operational efficiency evaluation.
+
 Sales per Order: Average order value, reflecting customer purchasing behavior and cross-selling effectiveness.
+
 Total Profit: Net income to assess business strategies related to cost management and revenue generation.
+
 Total Sales: Total revenue generated, providing insights into customer acquisition and growth.
+
 Profit Ratio: Percentage of revenue converted into profit after costs.
 
 ## Stage 4: Power BI Dashboard Design and Alert System
@@ -45,17 +50,31 @@ In the final stage, I designed and deployed interactive dashboards using Power B
 
 Dashboard Design: Created dashboards with visual elements like charts, graphs, and tables, offering a clear and accessible user experience.
 Interactivity: Implemented features such as data filters, drill-down options, and real-time exploration of data.
-Dashboard Scheduling: Scheduled automatic daily data refreshes and shared dashboards with key stakeholders.
-Alerts and Notifications: Set up automated alerts to notify users when specific thresholds were crossed, unusual patterns emerged, or specific events occurred.
-Delivery Channels: Alerts were sent via email, push notifications, and in-app notifications within Power BI.
-Alert Management: Configured alert triggers and delivery preferences, as well as a history of past alerts.
-Technologies Used:
 
-SQL Server Integration Services (SSIS) for ETL processes.
-SQL Server Reporting Services (SSRS) for reporting.
-Tableau for KPI creation and visualization.
-Power BI for interactive dashboard creation, alert systems, and stakeholder reporting.
-Project Outcomes:
+Dashboard Scheduling: Scheduled automatic daily data refreshes and shared dashboards with key stakeholders.
+
+Alerts and Notifications: Set up automated alerts to notify users when specific thresholds were crossed, unusual patterns emerged, or specific events occurred.
+
+Delivery Channels: Alerts were sent via email, push notifications, and in-app notifications within Power BI.
+
+Alert Management: Configured alert triggers and delivery preferences, as well as a history of past alerts.
+
+## Technologies Used:
+
+SQL Server Management Studio (SSMS) for database design, schema creation, and query development.
+SQL for data extraction, manipulation, and integration.
+SQL Server Integration Services (SSIS) for the development of ETL processes, data transformation, and workflow automation.
+SQL Server Reporting Services (SSRS) for generating reports, data analysis, and creating visualizations such as charts and KPIs.
+Tableau for developing interactive dashboards and visualizing KPIs to deliver business insights.
+Power BI for designing interactive, real-time dashboards, scheduling data updates, and setting up automated alerts and notifications.
+Excel for preliminary data analysis, managing flat files, and performing calculations.
+ETL (Extract, Transform, Load) for managing data extraction from multiple sources, transforming it based on business rules, and loading it into a centralized data warehouse.
+Data Warehousing for designing and building scalable solutions for storing and managing integrated data from multiple sources.
+Data Integration using tools like SSIS to combine and streamline data from diverse sources.
+Relational Database Management Systems (RDBMS) for structuring and managing data across various systems.
+KPI Reporting for creating key performance indicators to evaluate business performance.
+
+## Project Outcomes:
 
 Built a comprehensive and scalable data warehouse for sales analysis.
 Automated data extraction, transformation, and reporting, ensuring real-time insights.
