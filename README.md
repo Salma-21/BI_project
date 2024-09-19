@@ -61,18 +61,31 @@ Alert Management: Configured alert triggers and delivery preferences, as well as
 
 ## Technologies Used:
 
-SQL Server Management Studio (SSMS) for database design, schema creation, and query development.
-SQL for data extraction, manipulation, and integration.
-SQL Server Integration Services (SSIS) for the development of ETL processes, data transformation, and workflow automation.
-SQL Server Reporting Services (SSRS) for generating reports, data analysis, and creating visualizations such as charts and KPIs.
-Tableau for developing interactive dashboards and visualizing KPIs to deliver business insights.
-Power BI for designing interactive, real-time dashboards, scheduling data updates, and setting up automated alerts and notifications.
-Excel for preliminary data analysis, managing flat files, and performing calculations.
-ETL (Extract, Transform, Load) for managing data extraction from multiple sources, transforming it based on business rules, and loading it into a centralized data warehouse.
-Data Warehousing for designing and building scalable solutions for storing and managing integrated data from multiple sources.
-Data Integration using tools like SSIS to combine and streamline data from diverse sources.
-Relational Database Management Systems (RDBMS) for structuring and managing data across various systems.
-KPI Reporting for creating key performance indicators to evaluate business performance.
+•	SQL Server Management Studio (SSMS) for database design, schema creation, and query development.
+
+•	SQL for data extraction, manipulation, and integration.
+
+•	SQL Server Integration Services (SSIS) for the development of ETL processes, data transformation, and workflow automation.
+
+•	SQL Server Reporting Services (SSRS) for generating reports, data analysis, and creating visualizations such as charts and KPIs.
+
+•	Tableau for developing interactive dashboards and visualizing KPIs to deliver business insights.
+
+•	Power BI for designing interactive, real-time dashboards, scheduling data updates, and setting up automated alerts and notifications.
+
+•	Excel for preliminary data analysis, managing flat files, and performing calculations.
+
+•	ETL (Extract, Transform, Load) for managing data extraction from multiple sources, transforming it based on business rules, and loading it into a centralized data warehouse.
+
+•	Data Warehousing for designing and building scalable solutions for storing and managing integrated data from multiple sources.
+
+•	Data Integration using tools like SSIS to combine and streamline data from diverse sources.
+
+•	Relational Database Management Systems (RDBMS) for structuring and managing data across various systems.
+
+•	KPI Reporting for creating key performance indicators to evaluate business performance.
+
+
 
 ## Project Outcomes:
 
